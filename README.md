@@ -1,5 +1,5 @@
-# README for Heart Failure Prediction Using Machine Learning
-
+# Heart Failure Prediction Using Machine Learning
+Predicting heart failure events using a variety of machine learning models and neural networks.
 ## Project Overview
 
 This project focuses on predicting heart failure events using a variety of machine learning models and neural networks. The dataset used includes clinical records of heart failure patients. The overall goal is to build models that effectively predict whether a patient is at risk of death based on various health indicators.
